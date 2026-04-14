@@ -1,0 +1,5 @@
+node_modules
+.env
+output_log.csv
+.wwebjs_auth
+.wwebjs_cache
